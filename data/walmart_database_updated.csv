@@ -1,4 +1,5 @@
-Shipment_Identifier,origin,destination,product,on_time, quantity, driver_identifier449263b4-6c93-4f19-8b6a-0d99a29fc637,bb75bf7d-c008-4267-bf92-6089cff5fe56,5e9405de-a078-4b00-99c6-96564568b63c,pants,false,10,c12025e6-6f9c-4728-8c3c-9f840bde6f1a
+Shipment_Identifier,origin,destination,product,on_time,quantity,driver_identifier
+449263b4-6c93-4f19-8b6a-0d99a29fc637,bb75bf7d-c008-4267-bf92-6089cff5fe56,5e9405de-a078-4b00-99c6-96564568b63c,pants,false,10,c12025e6-6f9c-4728-8c3c-9f840bde6f1a
 449263b4-6c93-4f19-8b6a-0d99a29fc637,bb75bf7d-c008-4267-bf92-6089cff5fe56,5e9405de-a078-4b00-99c6-96564568b63c,pants,false,10,c12025e6-6f9c-4728-8c3c-9f840bde6f1a
 449263b4-6c93-4f19-8b6a-0d99a29fc637,bb75bf7d-c008-4267-bf92-6089cff5fe56,5e9405de-a078-4b00-99c6-96564568b63c,pants,false,10,c12025e6-6f9c-4728-8c3c-9f840bde6f1a
 449263b4-6c93-4f19-8b6a-0d99a29fc637,bb75bf7d-c008-4267-bf92-6089cff5fe56,5e9405de-a078-4b00-99c6-96564568b63c,keyboards,false,10,c12025e6-6f9c-4728-8c3c-9f840bde6f1a
